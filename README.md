@@ -9,10 +9,10 @@
 ![Image02](images/Image02.png)
 
 ##### 3. Set finalName in build and Setting port
-- set finalName at `pom.xml`
+- set finalName at `pom.xml` <br>
 ![Image03](images/Image03.png)
 
-- set port at `resources/application.properties`
+- set port at `resources/application.properties` <br>
 ![Image08](images/Image08.png)
 
 ##### 4. Create file Dockerfile
